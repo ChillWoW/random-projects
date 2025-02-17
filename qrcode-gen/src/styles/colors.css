@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --purple-50: #f0e4f4;
+    --purple-100: #d2b7d8;
+    --purple-200: #a78cb0;
+    --purple-300: #846f8a;
+    --purple-400: #6a5d73;
+    --purple-500: #514055;
+    --purple-600: #3b2a3f;
+    --purple-700: #2a1f2d;
+    --purple-800: #221922;
+    --purple-900: #1b161b;
+
+    --dark-50: #a1adc2;
+    --dark-100: #8993a7;
+    --dark-200: #2c2e33;
+    --dark-300: #727b8e;
+    --dark-400: #525864;
+    --dark-500: #434750;
+    --dark-600: #373a40;
+    --dark-700: #2c2e33;
+    --dark-800: #212226;
+    --dark-900: #1a1b1e;
+  }
+}
